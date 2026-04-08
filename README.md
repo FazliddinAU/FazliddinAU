@@ -4,8 +4,6 @@
 Dasturchi | Dizayner | IT Mutaxassisi O'zbekiston, Toshkent 📍
 
 
-Copy code
-
 [![GitHub followers](https://img.shields.io/github/followers/fazliddinau?label=Followers&style=social)](https://github.com/FazliddinAU)
 [![GitHub stars](https://img.shields.io/github/stars/fazliddinau?label=Stars&style=social)](https://github.com/FazliddinAU)
 [![GitHub forks](https://img.shields.io/github/forks/fazliddinau?label=Forks&style=social)](https://github.com/FazliddinAU)
