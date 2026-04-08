@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Fazliddin Abdurahmonov
-Software Engineer | SMM | Striker Uzbekiston, Toshkent 📍
+Software Engineer | SMM | Striker Uzbekistan, Tashkent 📍
 
 
 [![Website](https://img.shields.io/badge/Website-fazliddinau.uz-blue?logo=vercel)](https://fazliddinau.uz/)
