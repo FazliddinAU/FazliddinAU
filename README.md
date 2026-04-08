@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Fazliddin
-Dasturchi | Dizayner | IT Mutaxassisi O'zbekiston, Toshkent 📍
+# 👋 Hi, I'm Fazliddin Abdurahmonov
+Software Engineer | SMM | Striker Uzbekiston, Toshkent 📍
 
 
 [![GitHub followers](https://img.shields.io/github/followers/fazliddinau?label=Followers&style=social)](https://github.com/FazliddinAU)
