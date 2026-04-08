@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salom! Men Fazliddin Nau
+# 👋 Hi, I'm Fazliddin
 Dasturchi | Dizayner | IT Mutaxassisi O'zbekiston, Toshkent 📍
 
 
