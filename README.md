@@ -1,6 +1,4 @@
-## 👋 Hi, I’m [Ismingiz]
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" /> Hi, I'm Fazliddin Abdurahmonov
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com) &nbsp;
