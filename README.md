@@ -39,31 +39,6 @@ const fazliddin = {
 
 <br/>
 
-### 🔥 Popular Projects
-
-<div align="center">
-
-<a href="https://github.com/FazliddinAU/fzupro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FazliddinAU&repo=fzupro&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FazliddinAU/FDOteam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FazliddinAU&repo=FDOteam&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FazliddinAU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FazliddinAU&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
