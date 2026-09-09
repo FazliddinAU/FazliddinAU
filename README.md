@@ -15,8 +15,6 @@
 
 <br/>
 
-### 🧠 Kim men?
-
 ```txt
 const fazliddin = {
     role: "Software Engineer & SMM Manager",
