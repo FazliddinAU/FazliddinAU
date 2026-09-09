@@ -1,11 +1,74 @@
 <div align="center">
 
-# 👋 Hi, I'm Fazliddin Abdurahmonov
-Software Engineer | SMM | Striker Uzbekistan, Tashkent 📍
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Fazliddin%20Abdurahmonov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Digital%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=Software+Engineer+%F0%9F%92%BB;SMM+%26+Growth+Strategist+%F0%9F%93%88;Building+fzupro+%2F+FDOteam+%2F+F-A-Z-I-N+%F0%9F%9A%80;Based+in+Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/fazliddinau.uz-blue?logo=vercel)](https://fazliddinau.uz/)
-[![Twitter](https://img.shields.io/badge/@fazliddinau-white?logo=telegram)](https://t.me/fazliddin_au)
+<br/>
+
+[![Website](https://img.shields.io/badge/fazliddinau.uz-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://fazliddinau.uz/)
+[![Telegram](https://img.shields.io/badge/@fazliddin__au-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fazliddin_au)
 
 </div>
 
+<br/>
+
+### 🧠 Kim men?
+
+```txt
+const fazliddin = {
+    role: "Software Engineer & SMM Manager",
+    location: "Tashkent, Uzbekistan 🇺🇿",
+    focus: ["Web Development", "Automation", "Growth Marketing"],
+    motto: "Mistake isn't the end..",
+    status: "Building something new 🚀"
+};
+```
+
+<br/>
+
+<div align="center">
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,figma,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+### 🔥 Popular Projects
+
+<div align="center">
+
+<a href="https://github.com/FazliddinAU/fzupro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FazliddinAU&repo=fzupro&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/FazliddinAU/FDOteam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FazliddinAU&repo=FDOteam&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FazliddinAU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FazliddinAU&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+💬 *"Mistake isn't the end.."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" width="100%"/>
+
+</div>
